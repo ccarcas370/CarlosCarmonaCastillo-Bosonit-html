@@ -1,0 +1,121 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://www.gratistodo.com/wp-content/uploads/2016/10/paisajes-oto%C3%B1o-wallpapers.jpg);
+}
+
+#cabecera{
+    text-align: center;
+    color: #FFF;
+    margin: auto;
+    width: 50%;
+}
+
+#title{
+}
+
+#description{
+    font-size: 26px;
+}
+
+#formulario{
+    font-size: 24px;
+    color: #FFF;
+}
+
+#survey-form{
+    background-color: #262644;
+    margin: auto;
+    width: 70%;
+    padding: 1px;
+    opacity: 0.9;
+}
+
+.input{   
+    margin-left: 90px;
+    width: 80%;
+    height: 3em;
+}
+
+#definitely{
+    margin: auto;
+    width: 25%;
+}
+
+#maybe{
+    margin: auto;
+    width: 25%; 
+}
+
+#not_sure{
+    margin: auto;
+    width: 25%;
+}
+
+#front-end{
+    margin: auto;
+    width: 25%;
+}
+
+#back-end{
+    margin: auto;
+    width: 25%;
+}
+
+#date{
+    margin: auto;
+    width: 25%;
+}
+
+#desafio{
+    margin: auto;
+    width: 25%; 
+}
+
+#gitter{
+    margin: auto;
+    width: 25%;
+}
+
+#open_source{
+    margin: auto;
+    width: 25%;   
+}
+
+#video{
+    margin: auto;
+    width: 25%;   
+}
+
+#city{
+    margin: auto;
+    width: 25%;   
+}
+
+#wiki{
+    margin: auto;
+    width: 25%;   
+}
+
+#foro{
+    margin: auto;
+    width: 25%;   
+}
+
+#course{
+    margin: auto;
+    width: 25%;   
+}
+
+.input_comment{   
+    margin-left: 90px;
+    width: 80%;
+}
+
+#submit{
+    color: white;
+    background-color: green;
+    margin-left: 8.5%;
+    width: 80%;
+    height: 5em;
+}

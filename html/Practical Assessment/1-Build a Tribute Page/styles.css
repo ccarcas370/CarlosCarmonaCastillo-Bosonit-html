@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+  }
+
+  h3{
+    text-align: center;
+  }
+  
+  p{
+    font-size: 18px;
+  }
+  
+  under-list{
+    font-size: 12px;
+  }
+
+  head{
+    background-color: #eee;
+  }
+
+  #subtitle{
+    text-align: center;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  
+  #tribute-info{
+    font-size: 10px;
+    text-align: center;
+  }
+
+  #img-caption{
+    background-color: #eee;
+  }
+
+  #img-div{
+    background-color: white;
+  }
+
+  #list{
+    margin: auto;
+    width: 50%;
+  }
+
+  #final{
+    text-align: center;
+    font-size: 24px;
+  }
+
+  #main{
+    display: flex;
+    flex-direction: column;
+    background-color: #eee;
+  }
